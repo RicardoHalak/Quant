@@ -1,4 +1,5 @@
 # Quant
 NOT FINANCIAL ADVICE
 
-[Monte Carlo Simulation (VaR and CVaR)](https://github.com/RicardoHalak/Quant/blob/main/MonteCarloSimulations.ipynb)
+[Monte Carlo Simulation (VaR and CVaR)](https://github.com/RicardoHalak/Quant/blob/main/MonteCarloSimulations_VaR_CVaR.ipynb)
+[Black-Scholes Model for European Option Pricing)](https://github.com/RicardoHalak/Quant/blob/main/BlackScholes_OptionPricing.ipynb)
