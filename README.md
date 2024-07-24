@@ -7,4 +7,4 @@ NOT FINANCIAL ADVICE
 <br>
 [Calculating Option Greeks using Black-Scholes](https://github.com/RicardoHalak/Quant/blob/main/BlackScholes_OptionPricing.ipynb)
 <br>
-[Calculating Implied Volatility using Newton-Raphson Method](https://github.com/RicardoHalak/Quant/blob/main/BlackScholes_OptionPricing.ipynb)
+[Determing Option Implied Volatility using Newton-Raphson Method](https://github.com/RicardoHalak/Quant/blob/main/BlackScholes_OptionPricing.ipynb)
