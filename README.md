@@ -5,15 +5,11 @@ NOT FINANCIAL ADVICE
 <br>
 Add description
 
-## [Black-Scholes Model for European Option Pricing](https://github.com/RicardoHalak/Quant/blob/main/BlackScholes_OptionPricing.ipynb)
+## [Black-Scholes Model for European Option Pricing](https://colab.research.google.com/drive/1a580QGd6wzIviVfXvYnLDacntJ5-V-uc?usp=sharing)
 <br>
 Add description
 
-## [Calculating Option Greeks using Black-Scholes](https://github.com/RicardoHalak/Quant/blob/main/BlackScholes_OptionPricing.ipynb)
-<br>
-Add description
-
-## [Determing Option Implied Volatility using Newton-Raphson Method](https://github.com/RicardoHalak/Quant/blob/main/BlackScholes_OptionPricing.ipynb)
+## [Calculating Option Implied Volatility using Newton-Raphson Method](https://colab.research.google.com/drive/17bx4AO06UQs0qWrbYsx2LouKfNs_V_ek?usp=sharing)
 <br>
 Add description
 
