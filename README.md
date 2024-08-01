@@ -1,5 +1,4 @@
 # Quantitative Finance Projects
-**--- NOT FINANCIAL ADVICE ---**
 
 ## [Stock Movement Prediction using LSTM](https://colab.research.google.com/drive/1H_Dn58foWjGl6U-fi8yoTpL3z3clVI9R?usp=sharing)
 This notebook guides you through using Long Short-Term Memory (LSTM) neural networks to predict stock movements. It starts with an introduction to the core concepts, including what LSTMs are, how they are applied, their advantages and limitations, and their main components. Next, it discusses backtesting, covering its limitations and important metrics like total return, annualized return, annualized standard deviation, drawdown, Sharpe ratio, and win/loss ratio. 
