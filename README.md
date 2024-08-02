@@ -13,8 +13,8 @@ The implementation section walks you through the practical steps: importing libr
 This notebook explores the fundamentals of the **Black-Scholes option pricing model**. It begins with an overview of key concepts, including the Black-Scholes formula and the assumptions underpinning the model. The notebook then delves into the **Black-Scholes Greeks**, which are essential for understanding how different factors affect options pricing. These Greeks include Delta (Δ), Gamma (Γ), Vega (ν), Theta (Θ), and Rho (ρ). Finally, the notebook includes an example and sanity check to illustrate the practical application of the model and verify its calculations.
 <br>
 
-**Keywords**: Black-Scholes Model, Black-Scholes Greeks
-**Libraries**: numpy, scipy.stats, py_vollib
+- **Keywords**: Black-Scholes Model, Black-Scholes Greeks
+- **Libraries**: numpy, scipy.stats, py_vollib
 
 ## [Calculating Option Implied Volatility using Newton-Raphson Method](https://colab.research.google.com/drive/17bx4AO06UQs0qWrbYsx2LouKfNs_V_ek?usp=sharing)
 This notebook provides a thorough exploration of implied volatility and its significance in financial modeling. It starts with an introduction to the basic concept of volatility and explains why implied volatility is a crucial measure. The notebook then covers how to find implied volatility using the Newton-Raphson method. The notebook outlines the steps involved in the Newton-Raphson method, including its advantages and disadvantages. The process of calculating implied volatility is detailed, formulating the problem and applying the Newton-Raphson iterative formula with specific focus on the importance and application of the Black-Scholes formula in this method. The notebook also presents the iterative algorithm used for calculations, culminating in a practical implementation of the method.
