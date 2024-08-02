@@ -36,7 +36,7 @@ This notebook is a simple step-by-step to analyze and visualize financial data. 
 **Keywords**: Data Visualization, Financial Metrics <br>
 **Libraries**: yfinance, pandas, numpy, matplotlib, seaborn
 
-## [Random Forests]()
+## [Random Forests](https://colab.research.google.com/drive/1_QqpvhfTRzi7BVRl8kMlCPM47qMjK_c2?usp=sharing)
 ---
 <br>
 
