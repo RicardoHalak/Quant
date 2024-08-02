@@ -22,5 +22,23 @@ This notebook delves into the principles and applications of Monte Carlo simulat
 This notebook is a simple step-by-step to analyze and visualize financial data. It covers importing necessary libraries (yfinance, pandas, numpy, matplotlib, seaborn), collecting stock data from Yahoo Finance, and exploring and cleaning the data. Key metrics such as closing prices, moving averages, trading volumes, and Bollinger Bands are visualized. Additionally, the notebook includes analysis of financial metrics such as daily and cumulative returns and correlation analysis to uncover relationships between different financial indicators.
 <br>
 
+## [Random Forests]()
+---
+<br>
 
+## [XGBoost]()
+---
+<br>
+
+## [PCA]()
+---
+<br>
+
+## [ARIMA]()
+---
+<br>
+
+## [GARCH]()
+---
+<br>
 
