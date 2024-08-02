@@ -7,7 +7,7 @@ The implementation section walks you through the practical steps: importing libr
 
 **Keywords**: Long Short-Term Memory (LSTM) neural networks, Backtesting, Portfolio Metrics, Trading Strategy
 **Libraries**: yfinance, pandas, numpy, matplotlib, seaborn, sklearn, tensorflow, tensorflow.keras, random, os
-<br>
+
 
 ## [Black-Scholes Model for European Option Pricing](https://colab.research.google.com/drive/1a580QGd6wzIviVfXvYnLDacntJ5-V-uc?usp=sharing)
 This notebook explores the fundamentals of the **Black-Scholes option pricing model**. It begins with an overview of key concepts, including the Black-Scholes formula and the assumptions underpinning the model. The notebook then delves into the **Black-Scholes Greeks**, which are essential for understanding how different factors affect options pricing. These Greeks include Delta (Δ), Gamma (Γ), Vega (ν), Theta (Θ), and Rho (ρ). Finally, the notebook includes an example and sanity check to illustrate the practical application of the model and verify its calculations.
