@@ -36,8 +36,10 @@ This notebook is a simple step-by-step to analyze and visualize financial data. 
 **Keywords**: Data Visualization, Financial Metrics <br>
 **Libraries**: yfinance, pandas, numpy, matplotlib, seaborn
 
-## [Random Forests](https://colab.research.google.com/drive/1_QqpvhfTRzi7BVRl8kMlCPM47qMjK_c2?usp=sharing)
+## [Random Forests to Forecast Stock Movements](https://colab.research.google.com/drive/1_QqpvhfTRzi7BVRl8kMlCPM47qMjK_c2?usp=sharing)
 ---
+In this project, we create a long-only trading strategy based on the application of Random Forests to predict stock market trends. The project begins with an introduction to Random Forests, detailing how they operate, their advantages, and limitations. It then delves into the critical aspect of hyperparameter tuning, presenting common hyperparameters tuning techniques like Grid Search, Random Search, and Bayesian Optimization. The section on feature engineering highlights its benefits and provides examples, including feature creation and transformation. The implementation phase involves loading libraries and data, followed by detailed feature engineering techniques such as Relative Strength Index (RSI) and Moving Average Convergence Divergence (MACD). The data is then split into training, validation, and test sets. We establish several baselines, including risk-free rate, buy and hold, random strategy, and S&P 500 index, to benchmark our strategy. After hyperparameter tuning, we backtest our strategy based on the models that provided the highest Sharpe ratio, maximum returns, lowest volatility, and highest accuracy. Finally, the results are presented and compared against the baselines. Additionally, feature importance is presented, showing the contributions of various features to the predictions of the highest return model.
+
 <br>
 
 ## [XGBoost]()
