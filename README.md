@@ -20,10 +20,10 @@ This notebook guides you through using Long Short-Term Memory (LSTM) neural netw
 
 The implementation section walks you through the practical steps: importing libraries, collecting and preprocessing data, calculating returns, scaling data, creating sequences, and splitting these sequences into training, validation, and test sets. It also covers building and training the LSTM model using Dropout and Batch Normalization, making returns predictions, and evaluating the accuracy of predictions for upward and downward moves. A simple, long-only trading strategy is built based on the LSTM predictions to demonstrate the concept of **backtesting**. The notebook concludes conducting an evaluation of the performance of the strategy using the metrics mentioned above.
 <br> 
--->
 
 **Keywords**: Long Short-Term Memory (LSTM) neural networks, Backtesting, Portfolio Metrics, Trading Strategy <br>
 **Libraries**: yfinance, pandas, numpy, matplotlib, seaborn, sklearn, tensorflow, tensorflow.keras, random, os
+-->
 
 ## [Black-Scholes Model for European Option Pricing](https://colab.research.google.com/drive/1a580QGd6wzIviVfXvYnLDacntJ5-V-uc?usp=sharing)
 This notebook explores the fundamentals of the **Black-Scholes option pricing model**. It begins with an overview of key concepts, including the Black-Scholes formula and the assumptions underpinning the model. The notebook then delves into the **Black-Scholes Greeks**, which are essential for understanding how different factors affect options pricing. These Greeks include Delta (Δ), Gamma (Γ), Vega (ν), Theta (Θ), and Rho (ρ). Finally, the notebook includes an example and sanity check to illustrate the practical application of the model and verify its calculations. 
@@ -52,6 +52,7 @@ This notebook is a simple step-by-step to analyze and visualize financial data. 
 **Keywords**: Data Visualization, Financial Metrics <br>
 **Libraries**: yfinance, pandas, numpy, matplotlib, seaborn
 
+<!--
 ## [XGBoost]()
 ---
 <br>
@@ -67,4 +68,4 @@ This notebook is a simple step-by-step to analyze and visualize financial data. 
 ## [GARCH]()
 ---
 <br>
-
+-->
