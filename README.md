@@ -8,6 +8,13 @@ In this project, we create a long-only trading strategy based on the application
 **Keywords**: Random Forests, Hyperparameters Tuning, Feature Engineering, Relative Strength Index, Moving Average Convergence Divergence, Backtesting Baselines <br>
 **Libraries**: yfinance, pandas, numpy, matplotlib, tqdm, sklearn
 
+## [Pairs Trading GOOG-GOOGL](https://colab.research.google.com/drive/1_tW2j2ZyMuuAOcp6oOKhXqXySO42FsgI?usp=sharing)
+This notebook provides a comprehensive exploration of pairs trading, a popular statistical arbitrage strategy, focusing on its mathematical foundations, implementation, and optimization. We start with an introduction to pairs trading and its mathematical underpinnings, including the concept of the Z-score and its application in trading strategies. The notebook details a simple process for optimizing exit and entry thresholds to enhance trading performance. We use S&P500 performance as a baseline and proceed with the practical implementation of the strategy. Key steps include the Engle-Granger cointegration test to identify cointegrated pairs and the visualization of optimal exit and entry thresholds. The backtesting section evaluates two different strategies: trading strategy optimized for the highest total return and optimized for highest sharpe ratio. Performance is assessed on both validation and test sets, providing insights into the robustness and effectiveness of the strategies
+<br>
+
+**Keywords**: Pairs Trading, Cointegration, Backtesting <br>
+**Libraries**: yfinance, pandas, numpy, matplotlib, tqdm, statsmodels
+
 ## [Stock Movement Prediction using LSTM](https://colab.research.google.com/drive/1H_Dn58foWjGl6U-fi8yoTpL3z3clVI9R?usp=sharing)
 This notebook guides you through using Long Short-Term Memory (LSTM) neural networks to predict stock movements. It starts with an introduction to the core concepts, including what LSTMs are, how they are applied, their advantages and limitations, and their main components (gates). Next, it introduces the concept of backtesting, covering its limitations and important metrics such as **total return, annualized return, annualized standard deviation, drawdown, sharpe ratio, and win/loss ratio**. 
 
