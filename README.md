@@ -15,11 +15,13 @@ This notebook provides a comprehensive exploration of pairs trading, a popular s
 **Keywords**: Pairs Trading, Cointegration, Backtesting <br>
 **Libraries**: yfinance, pandas, numpy, matplotlib, tqdm, statsmodels
 
-<! --## [Stock Movement Prediction using LSTM](https://colab.research.google.com/drive/1H_Dn58foWjGl6U-fi8yoTpL3z3clVI9R?usp=sharing)
+<! --
+## [Stock Movement Prediction using LSTM](https://colab.research.google.com/drive/1H_Dn58foWjGl6U-fi8yoTpL3z3clVI9R?usp=sharing)
 This notebook guides you through using Long Short-Term Memory (LSTM) neural networks to predict stock movements. It starts with an introduction to the core concepts, including what LSTMs are, how they are applied, their advantages and limitations, and their main components (gates). Next, it introduces the concept of backtesting, covering its limitations and important metrics such as **total return, annualized return, annualized standard deviation, drawdown, sharpe ratio, and win/loss ratio**. 
 
 The implementation section walks you through the practical steps: importing libraries, collecting and preprocessing data, calculating returns, scaling data, creating sequences, and splitting these sequences into training, validation, and test sets. It also covers building and training the LSTM model using Dropout and Batch Normalization, making returns predictions, and evaluating the accuracy of predictions for upward and downward moves. A simple, long-only trading strategy is built based on the LSTM predictions to demonstrate the concept of **backtesting**. The notebook concludes conducting an evaluation of the performance of the strategy using the metrics mentioned above.
-<br> -->
+<br> 
+-->
 
 **Keywords**: Long Short-Term Memory (LSTM) neural networks, Backtesting, Portfolio Metrics, Trading Strategy <br>
 **Libraries**: yfinance, pandas, numpy, matplotlib, seaborn, sklearn, tensorflow, tensorflow.keras, random, os
